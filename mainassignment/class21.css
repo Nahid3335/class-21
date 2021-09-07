@@ -1,0 +1,43 @@
+
+
+
+.logo {
+	margin-right: 60px;
+}
+
+
+.banner img{
+    height: 800px;
+  
+
+}
+.table{
+    padding: 100px 0 70px;
+}
+.table-1 {
+	padding-right: 5%;
+}
+form {
+	padding-left: 3%;
+}
+
+.carousel-caption{
+    margin-bottom: 350px;
+}
+
+.table{
+    background-color: #f8f9fa;
+}
+
+.label{
+    margin-bottom: 8px;
+    font-size: 17px;
+}
+textarea{
+    height: 120px;
+}
+
+.stretched{
+    background-color: #f8f9fa;
+
+}
